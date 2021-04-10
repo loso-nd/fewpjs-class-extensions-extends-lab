@@ -37,3 +37,4 @@ valid. A square is valid when the lengths of all sides are equal.
 ## Resources
 
 * [Understanding Getters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get)
+ 
